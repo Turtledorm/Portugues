@@ -2,14 +2,13 @@
 | Resumo - Jogos Educativos Digitais |
 +------------------------------------+
 
-O texto aborda a dificuldade dos alunos de nível superior em aprender pelos
-métodos tradicionais de ensino, colocando como alternativa o uso de jogos
-digitais educativos. Tal ótica visa a melhorar a aprendizagem, aprimorar
-o conhecimento nas disciplinas e facilitar a compreensão da matéria.
+O texto aborda o uso de jogos digitais educativos como alternativa aos métodos
+tradicionais de ensino. Dada a dificuldade de aprendizado mostrada por alunos de
+nível superior, essa ferramenta digital busca aprimorar o conhecimento nas
+disciplinas e facilitar a compreensão da matéria.
 
-A eficiência da introdução dos jogos baseia-se em sua natureza simultaneamente
-lúdica e didática. Ao invés de focar apenas em conceitos teóricos, representam
-e exemplificam o contéudo, além de estimular acertos e encorajar em caso de erro.
-Essa abordagem dos estudos, que usa da interação lógica e motora, aumenta o interesse
-do estudante e promove o desenvolvimento hábil e cognitivo, impulsionando seu
-desempenho de modo geral.
+Sua eficiência baseia-se na natureza simultaneamente lúdica e didática dos games.
+Evitando focar apenas em conceitos teóricos, o conteúdo é representado e
+exemplificado, estimulando acertos e encorajando em caso de erros. Assim, por meio
+da interação lógica e motora, desenvolve-se conhecimento hábil e cognitivo no
+estudante, o que produz, em última instância, melhor desempenho nos estudos.
