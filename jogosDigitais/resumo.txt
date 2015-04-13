@@ -1,14 +1,16 @@
-+------------------------------------+ 
++------------------------------------+
 | Resumo - Jogos Educativos Digitais |
 +------------------------------------+
 
-O texto aborda o uso de jogos digitais educativos como alternativa aos métodos
-tradicionais de ensino. Dada a dificuldade de aprendizado mostrada por alunos de
-nível superior, essa ferramenta digital busca aprimorar o conhecimento nas
-disciplinas e facilitar a compreensão da matéria.
+Em função da dificuldade de aprendizado mostrada por alunos de nível superior,
+este projeto busca apresentar jogos digitais como alternativa aos métodos
+tradicionais de ensino através de um projeto da Universidade do Vale do Rio
+dos Sinos (Unisinos). A ferramenta digital busca aprimorar o conhecimento
+nas disciplinas e facilitar a compreensão da matéria.
 
-Sua eficiência baseia-se na natureza simultaneamente lúdica e didática dos games.
+A eficiência do projeto baseia-se na natureza lúdica e didática dos games.
 Evitando focar apenas em conceitos teóricos, o conteúdo é representado e
-exemplificado, estimulando acertos e encorajando em caso de erros. Assim, por meio
-da interação lógica e motora, desenvolve-se conhecimento hábil e cognitivo no
-estudante, o que produz, em última instância, melhor desempenho nos estudos.
+exemplificado, estimulando acertos e encorajando em caso de erros. Assim,
+por meio da interação lógica e motora, desenvolve-se conhecimento hábil e
+cognitivo no estudante, o que produz, em última instância, melhor desempenho
+nos estudos.
