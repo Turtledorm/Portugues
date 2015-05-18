@@ -1,0 +1,25 @@
++-----------------------------------------------+
+| Resumo - Reconhecimento Automático de Insetos |
++-----------------------------------------------+
+
+Insetos são vistos constantemente como prejudiciais ao ser humano. A despeito
+disso, diversos deles são benéficos ao ecossistema e, em última instância, ao
+homem. Assim, torna-se interessante (e vital) o desenvolvimento de um método
+seletivo que consiga, por meio da distinção entre espécies, impedir ou eliminar
+as nocivas, ao mesmo tempo que se preserva as que são úteis para o meio ambiente.
+
+Para que isso seja possível, é necessária a utilização de tecnologias que
+distinguam insetos de forma eficiente e automática. Umas dessas técnicas
+(Batista et al. 2011) consiste em sensores de identificação que, por meio
+de um feixe laser, realizam a análise dos artrópodes à distância.
+
+O sistema consiste na captação de frequências geradas pelo movimento dos insetos.
+Os dados são então analisados por meio de uma série de critérios matemáticos e
+estatísticos, e classificados de acordo com determinada metodologia, como similaridade
+ou características intrínsecas. Esses testes, aplicados a um grande rol de indivíduos,
+geram resultados que permitem categorizar satisfatoriamente as diferentes espécies
+de insetos a passarem pelo sensor.
+
+O projeto, em linhas gerais, constitui-se numa solução simples e econômica, cujo
+custo-benefício supera até mesmo o dos algoritmos mais sofisticados, mostrando-se
+de grande importância computacional.
